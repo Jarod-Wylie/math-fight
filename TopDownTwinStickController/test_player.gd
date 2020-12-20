@@ -1,6 +1,6 @@
 extends KinematicBody
 
-export var health = 15
+export var health = 4
 
 
 #func _ready():
